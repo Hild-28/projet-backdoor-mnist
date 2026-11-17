@@ -1,0 +1,6 @@
+torch==2.14.1
+torchvision==0.29.1
+numpy==2.4.6
+scikit-learn==1.6.1
+matplotlib
+adversarial-robustness-toolbox==1.20.1
