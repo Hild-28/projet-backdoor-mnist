@@ -1,6 +1,6 @@
 # Étude, détection et remédiation contre l'empoisonnement des données
 
-Projet Master Data et IA — INPT. Expérimentation d'une attaque par porte dérobée (*backdoor*) sur un classifieur d'images MNIST, puis détection des données empoisonnées et remédiation par réentraînement.
+Expérimentation d'une attaque par porte dérobée (*backdoor*) sur un classifieur d'images MNIST, puis détection des données empoisonnées et remédiation par réentraînement.
 
 Le rapport technique et la présentation sont livrés séparément ; ce dépôt contient le code et tout ce qu'il faut pour reproduire les résultats.
 
